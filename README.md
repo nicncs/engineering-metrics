@@ -9,7 +9,7 @@ As I move into engineering management, it became more of an art, as much as we a
 
 This method and these metrics are applied at a typical modern product development company, whether startup or scale-up. The teams are structured into 2-pizza scrum teams or feature teams, consisting of cross-functional and specialized roles. Typically there will be combination of mobile devs, frontend devs, backend devs, SRE, and may or may not have QA, Data Engineer etc.
 
-The key is to not overly measure everything and focus more towards leading, as compated to lagging indicators to ensure we are proactive. 
+The key is to not overly measure everything and focus more towards leading, as compared to lagging indicators to ensure we are proactive. Focus on the few Tier-1 metrics that really matter and can move the needle. 
 
 ## The Metrics
 
